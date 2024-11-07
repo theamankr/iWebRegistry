@@ -1,8 +1,5 @@
-# Namingo Registry
-
-[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
-
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+iWeb registry 
+(https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
 Open-source domain registry platform. Revolutionizing ccTLD and gTLD management with Namingo.
 
@@ -144,4 +141,6 @@ Additionally, we extend our gratitude to:
 
 ## Licensing
 
-Namingo is licensed under the MIT License.
+iweb registry is licensed under the MIT License.
+We ❤️ MLH
+[Join Now](mlh.io)
